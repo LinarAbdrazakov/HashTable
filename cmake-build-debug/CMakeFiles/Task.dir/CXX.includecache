@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/LINAR/CLionProjects/Task/HashTable.cpp
+HashTable.h
+/Users/LINAR/CLionProjects/Task/HashTable.h
+stdexcept
+-
+
+/Users/LINAR/CLionProjects/Task/HashTable.h
+
+/Users/LINAR/CLionProjects/Task/main.cpp
+iostream
+-
+string
+-
+HashTable.h
+/Users/LINAR/CLionProjects/Task/HashTable.h
+
